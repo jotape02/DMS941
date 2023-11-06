@@ -2,9 +2,12 @@
 Aplicacion de Clinica Veterinaria Santa Barbara para la Gestion de sus pacientes y Citas
 Desarrolada en Kotlin con el Android Api 34
 
+##Cronograma de Actividades en Trello
+https://trello.com/b/9BwpH7Z7/m%C3%B3viles
 
-Integrantes:
-*Dennis Iván Rivas Figueroa, RF140580
+
+Integrantes:		   
+*Dennis Iván Rivas Figueroa, RF140580	                  
 *Juan Pablo Flores Santos, FS142078
 
 
