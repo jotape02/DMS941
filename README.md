@@ -4,8 +4,8 @@ Desarrolada en Kotlin con el Android Api 34
 
 
 Integrantes:
-Dennis Iván Rivas Figueroa, RF140580
-Juan Pablo Flores Santos, FS142078
+*Dennis Iván Rivas Figueroa, RF140580
+*Juan Pablo Flores Santos, FS142078
 
 
 Enlace para video
